@@ -28,8 +28,6 @@ Software engineer with a passion for building innovative products that accelerat
 
 <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,deno,mongodb,postgres,redis,aws,gcp&perline=13" />
 
-<details>
-<summary><b>See everything I work with</b></summary>
 <br/>
 
 | | |
@@ -40,8 +38,6 @@ Software engineer with a passion for building innovative products that accelerat
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-111111?style=flat-square&logo=deno&logoColor=white) ![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=44B78B) ![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=E10098) ![Socket.io](https://img.shields.io/badge/Socket.io-111111?style=flat-square&logo=socketdotio&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=635BFF) |
 | **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248) ![Redis](https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=FF4438) ![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=FFCA28) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4) ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Terraform](https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=844FBA) ![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=009639) ![Heroku](https://img.shields.io/badge/Heroku-111111?style=flat-square&logo=heroku&logoColor=white) |
-
-</details>
 
 <br/>
 
